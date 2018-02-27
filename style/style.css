@@ -1,0 +1,24 @@
+.myDiv {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.input-group-addon.primary {
+    color: rgb(255, 255, 255);
+    background-color: #0275d8;
+    border-color:#0275d8;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+svg {
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
